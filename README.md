@@ -11,7 +11,7 @@
 
 ![miraclechan-classic-skin1](images/miraclechan-skin-install1.jpg)
 
-## カーネルくんのスキンとそのサンプルイメージです
+## カーネルくんのスキンを追加しました!
 ![miraclechan-classic-skin1](images/kernel-kun-classic-skin1.png)
 
 ![miraclechan-classic-skin1](images/mapimage-kernel-kun.png)
