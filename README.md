@@ -17,4 +17,4 @@
 ![miraclechan-classic-skin1](images/mapimage-kernel-kun.png)
 
 ## LICENSE
-Creative Commons Attribution 4.0 International Public License
+Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
